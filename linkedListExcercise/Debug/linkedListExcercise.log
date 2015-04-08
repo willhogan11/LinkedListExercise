@@ -1,0 +1,17 @@
+﻿Build started 31/03/2015 20:56:51.
+     1>Project "H:\Software Development GMIT 2014-2016\Semester 4\4. Advanced Procedural Programming\Labs\linkedListExcercise\linkedListExcercise\linkedListExcercise.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\linkedListExcercise.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         linkedListExcercise.vcxproj -> H:\Software Development GMIT 2014-2016\Semester 4\4. Advanced Procedural Programming\Labs\linkedListExcercise\Debug\linkedListExcercise.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\linkedListExcercise.unsuccessfulbuild".
+         Touching "Debug\linkedListExcercise.lastbuildstate".
+     1>Done Building Project "H:\Software Development GMIT 2014-2016\Semester 4\4. Advanced Procedural Programming\Labs\linkedListExcercise\linkedListExcercise\linkedListExcercise.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.74
